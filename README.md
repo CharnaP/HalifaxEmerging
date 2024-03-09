@@ -3,7 +3,7 @@ Team ExpandedMinds: Charna Perman, Kaylee Hartigan-Go
 
 Note: This GitHub folder contains all the data used for the 'Halifax Emerging' App for the Esri ECCE App Challenge 2024.
 
-Link to Halifax Emerging: https://arcg.is/1Xjv8L 
+Link to Halifax Emerging: https://experience.arcgis.com/experience/08e54cabb58c434bba2eb29ff231c5ab 
 
 ## Mission Statement
 Canada is becoming increasingly urbanized. With most Canadians living in urban centers, and new arrivals to the country flocking to cities, understanding how cityscapes have evolved to support such growth is crucial. 
