@@ -1,4 +1,4 @@
-# Halifax Emerging: Exploring Urban History and Expansion in Halifax
+# Halifax Emerging: Exploring the History of Urban Expansion in Halifax
 Team ExpandedMinds: Charna Perman, Kaylee Hartigan-Go
 
 Note: This GitHub folder contains all the data used for the 'Halifax Emerging' App for the Esri ECCE App Challenge 2024.
